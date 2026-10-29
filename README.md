@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Suchit Raute — Portfolio
 
 A responsive Next.js portfolio built with the App Router, TypeScript, Tailwind CSS, Framer Motion, and Lucide icons.
@@ -26,3 +27,6 @@ Place the original, unmodified certificate files in `public/certificates/` and s
 ## Deploy to Vercel
 
 Import the repository into [Vercel](https://vercel.com/new), keep the Next.js framework preset, and deploy. No environment variables are required.
+=======
+# Portfolio
+>>>>>>> cc3d2cc8a7b1d2804d0d597ec66ec485bc874144
