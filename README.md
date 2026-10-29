@@ -1,27 +1,38 @@
-# Suchit Raute | Developer Portfolio
+# Suchit Raute | Portfolio
 
-**Cybersecurity Enthusiast · Networking · Software Development**
+<p align="center">
+  <a href="https://suchitraute-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-Live-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
+  </a>
+</p>
 
-Welcome to my personal portfolio repository! This project showcases my technical skills, development projects, certifications, and journey in computer science, with a growing focus on cybersecurity and networking.
+<p align="center">
+  <strong>Cybersecurity Enthusiast | Networking | Software Development</strong>
+</p>
 
-## About Me
+Welcome to my personal portfolio! This website showcases my technical skills, projects, certifications, and continuous learning journey in computer science, cybersecurity, and networking.
 
-I am a Computer Science and Business Systems (CSBS) student passionate about cybersecurity, networking, and building practical software solutions. I enjoy exploring security concepts, developing web applications, and continuously improving my technical skills.
+## 🌐 Live Portfolio
 
-## Tech Stack
+**Explore my portfolio:** [suchitraute-portfolio.vercel.app](https://suchitraute-portfolio.vercel.app/)
 
-**Languages**
-- C
-- C++
+## 👨‍💻 About Me
+
+I am a Computer Science and Business Systems (CSBS) student passionate about cybersecurity, networking, and software development. I enjoy building practical applications, learning security concepts, exploring networking technologies, and improving my problem-solving skills.
+
+My goal is to develop strong technical expertise and contribute to building secure, reliable, and innovative digital solutions.
+
+## 🛠️ Technical Skills
+
+**Programming Languages**
+- C and C++
 - Java
 - Python
-- JavaScript
-- TypeScript
+- JavaScript and TypeScript
 
 **Web Development**
-- HTML5
-- CSS3
-- React
+- HTML5 and CSS3
+- React.js
 - Next.js
 - Tailwind CSS
 
@@ -33,8 +44,8 @@ I am a Computer Science and Business Systems (CSBS) student passionate about cyb
 **Cybersecurity & Networking**
 - Networking fundamentals
 - Linux fundamentals
-- Cybersecurity principles
-- Security analysis and threat awareness
+- Security principles and threat awareness
+- Cybersecurity labs and hands-on learning
 
 **Tools & Platforms**
 - Git and GitHub
@@ -42,64 +53,39 @@ I am a Computer Science and Business Systems (CSBS) student passionate about cyb
 - Postman
 - Vercel
 
-## Featured Projects
+## 🚀 Featured Projects
 
-Explore my GitHub repositories to discover my development projects, practical implementations, and ongoing learning.
+### 1. IT Helpdesk & Ticket Management System
+A ticket management system designed to organize support requests, manage technician assignments, track ticket statuses, and maintain resolution history.
 
-- **Portfolio Website** — A responsive personal website built with Next.js, TypeScript, and Tailwind CSS.
-- **IT Helpdesk & Ticket Management System** — A ticket management application designed to organize support requests, technician assignments, and resolution tracking.
-- **Expense Tracker** — A web application for managing expenses and visualizing financial data.
+### 2. Expense Tracker
+A web application designed to manage expenses and present financial information through an organized interface and visual analytics.
 
-*See my GitHub profile for additional projects and source code.*
+### 3. Personal Portfolio Website
+A responsive portfolio website presenting my profile, technical skills, projects, and professional learning journey.
 
-## Certifications & Learning
+Explore my GitHub repositories for source code and additional projects.
 
-I continuously develop my technical knowledge through cybersecurity training, hands-on labs, and professional learning resources.
+## 🏅 Certifications & Learning
 
-- Cisco CCST Cybersecurity preparation and learning
-- Networking and Linux fundamentals
-- Hands-on cybersecurity practice
+I continuously work on strengthening my knowledge through structured courses, certifications, and hands-on practice.
 
-*Refer to the portfolio website for available certificate details.*
+- Cybersecurity fundamentals
+- Networking and Linux
+- Security operations and threat awareness
+- Practical cybersecurity learning labs
 
-## Run Locally
+Visit my portfolio to explore the certifications displayed on the website.
 
-Make sure Node.js and npm are installed.
+## 📬 Connect With Me
 
-```bash
-git clone https://github.com/SuchitRaute/Portfolio.git
-cd Portfolio
-npm install
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) in your browser.
-
-## Production Build
-
-```bash
-npm run lint
-npm run build
-npm start
-```
-
-Run the lint command only if it is configured in your project's `package.json`.
-
-## Deployment
-
-This portfolio can be deployed on [Vercel](https://vercel.com/new).
-
-1. Import the repository from GitHub.
-2. Configure the project using the detected Next.js settings.
-3. Deploy and verify the live website.
-
-## Connect With Me
-
+- **Portfolio:** [Visit Website](https://suchitraute-portfolio.vercel.app/)
 - **GitHub:** [SuchitRaute](https://github.com/SuchitRaute)
-- **Portfolio Repository:** [Portfolio](https://github.com/SuchitRaute/Portfolio)
 
 ---
 
-*Built with curiosity, creativity, and a passion for technology.*
-
-**© Suchit Raute**
+<p align="center">
+  <strong>Building. Learning. Securing.</strong>
+  <br />
+  Made with passion by Suchit Raute.
+</p>
